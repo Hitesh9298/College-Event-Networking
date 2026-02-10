@@ -50,6 +50,7 @@ npm start
 [Project Live Link](http://clgevent.netlify.app/)
 Frontend Depolyed : Netlify
 Backend Depolyed : Render
+
 📸 Screenshots
 
 Homepage
