@@ -103,3 +103,21 @@ npm start
 
 - Advanced analytics and reporting for admins
 
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+## 👨‍💻 About the Developer
+
+**Hitesh Parmar**
+B.Tech–M.Tech (CSE), NIT Patna
+GitHub: @Hitesh9298
+LinkedIn: linkedin.com/in/hitesh9298
