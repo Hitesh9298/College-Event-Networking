@@ -53,9 +53,9 @@ Backend Depolyed : Render
 ---
 ## 📸 Screenshots
 **Homepage**  
-![Homepage](./Assets/Homepage.png)
+![Homepage](Assets/Homepage.png)
 **Event Listing & Filter**  
-![Event Listing](./Assets/event_listing.png)
+![Event Listing](Assets/event_listing.png)
 ---
 💡 How It Works
 
