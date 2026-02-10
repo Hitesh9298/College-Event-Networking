@@ -41,53 +41,49 @@ cd backend
 npm install
 npm run dev
 
-# Frontend
+Frontend
 cd frontend
 npm install
 npm start
 
 🌐 Live Demo
-Project Live Link : http://clgevent.netlify.app/
+[Project Live Link](http://clgevent.netlify.app/)
 Frontend Depolyed : Netlify
 Backend Depolyed : Render
----
+📸 Screenshots
 
-## 📸 Screenshots
-
-**Homepage**  
+Homepage
 ![Homepage](Assets/Homepage.png)
 
-**Event Listing & Filter**  
+Event Listing & Filter
 ![Event Listing](Assets/event_listing.png)
 
-
----
 💡 How It Works
 
--Users sign up and log in according to their roles.
+Users sign up and log in according to their roles.
 
--Organizers can create and manage events.
+Organizers can create and manage events.
 
--Students browse, filter, and register for events.
+Students browse, filter, and register for events.
 
--Real-time chat connects attendees during events.
+Real-time chat connects attendees during events.
 
--Admins monitor platform activity and manage users/events.
+Admins monitor platform activity and manage users/events.
 
 🔒 Security
 
--Passwords hashed using bcrypt
+Passwords hashed using bcrypt
 
--JWT authentication for secure routes
+JWT authentication for secure routes
 
--Role-based access control to prevent unauthorized access
+Role-based access control to prevent unauthorized access
 
 📈 Future Enhancements
 
--Event calendar view with drag-and-drop registration
+Event calendar view with drag-and-drop registration
 
--AI-based event recommendations
+AI-based event recommendations
 
--Virtual event video streaming
+Virtual event video streaming
 
--Advanced analytics and reporting for admins
+Advanced analytics and reporting for admins
