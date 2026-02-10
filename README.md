@@ -32,8 +32,7 @@ A **full-stack MERN platform** for discovering, managing, and networking during 
 ---
 
 ## 📂 Project Structure
-
-
+![Structure](Assets/Structure.png)
 ## ⚙️ Setup Instructions
 
 ### Backend
@@ -54,7 +53,6 @@ Backend Depolyed : Render
 
 **Homepage**  
 ![Homepage](Assets/Homepage.png)
-
 **Event Listing & Filter**  
 ![Event Listing](Assets/event_listing.png)
 💡 How It Works
